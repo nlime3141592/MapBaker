@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 8750f736420ee9a46abd438364a12a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1710786351741107503
+    second: Hazards and Obstacles_0
+  - first:
+      213: -227379571964248104
+    second: Hazards and Obstacles_1
+  - first:
+      213: -2406647152260707488
+    second: Hazards and Obstacles_2
+  - first:
+      213: -8358191603841903540
+    second: Hazards and Obstacles_3
+  - first:
+      213: 4167613433357950998
+    second: Hazards and Obstacles_4
+  - first:
+      213: 6422341593657597330
+    second: Hazards and Obstacles_5
+  - first:
+      213: 2170682324615502836
+    second: Hazards and Obstacles_6
+  - first:
+      213: -6770412513125431983
+    second: Hazards and Obstacles_7
+  - first:
+      213: 1087373038668080066
+    second: Hazards and Obstacles_8
+  - first:
+      213: 3621706310078155846
+    second: Hazards and Obstacles_9
+  - first:
+      213: 4313165766788727046
+    second: Hazards and Obstacles_10
+  - first:
+      213: 467990979951919591
+    second: Hazards and Obstacles_11
+  - first:
+      213: -7033753873608568295
+    second: Hazards and Obstacles_12
+  - first:
+      213: 4691615748979540893
+    second: Hazards and Obstacles_13
+  - first:
+      213: -6867200038524289268
+    second: Hazards and Obstacles_14
+  - first:
+      213: 7149804962270041012
+    second: Hazards and Obstacles_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazards and Obstacles_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 638
+        width: 123
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7d1e6f1fedb710800000000000000
+      internalID: 1710786351741107503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 638
+        width: 88
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff3e7eb7f28dcf0800000000000000
+      internalID: -227379571964248104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 238
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b8bcd7a2fd99ed0800000000000000
+      internalID: -2406647152260707488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 385
+        width: 248
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d958150db10c80800000000000000
+      internalID: -8358191603841903540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 363
+        width: 509
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6106270365656d930800000000000000
+      internalID: 4167613433357950998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 698
+        width: 316
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d5d2407adb02950800000000000000
+      internalID: 6422341593657597330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 539
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1deec210df1e10800000000000000
+      internalID: 2170682324615502836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 23
+        width: 334
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558c44c0b9aa02a0800000000000000
+      internalID: -6770412513125431983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 47
+        width: 177
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3e52c7400271f00800000000000000
+      internalID: 1087373038668080066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 635
+        width: 96
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ccffc43b2e24230800000000000000
+      internalID: 3621706310078155846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 916
+        width: 88
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60141daa9617bdb30800000000000000
+      internalID: 4313165766788727046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 637
+        width: 70
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e10f161153ae7600800000000000000
+      internalID: 467990979951919591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_12
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 618
+        width: 78
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912980e4e16136e90800000000000000
+      internalID: -7033753873608568295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1022
+        width: 101
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93cd8c9aa7fb1140800000000000000
+      internalID: 4691615748979540893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_14
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1023
+        width: 73
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff53ee2fdc2b0a0800000000000000
+      internalID: -6867200038524289268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazards and Obstacles_15
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1023
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b35e6d5bb5393360800000000000000
+      internalID: 7149804962270041012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

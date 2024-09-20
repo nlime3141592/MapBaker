@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: b0c680cf343855b4b97b9f49bf9f3ff9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 866556626782925851
+    second: forest_sillhouettes_black2_0
+  - first:
+      213: -5715829233545960391
+    second: forest_sillhouettes_black2_1
+  - first:
+      213: 7561626299798894222
+    second: forest_sillhouettes_black2_2
+  - first:
+      213: -4694818327086173706
+    second: forest_sillhouettes_black2_3
+  - first:
+      213: 8350868460327693250
+    second: forest_sillhouettes_black2_4
+  - first:
+      213: -2185980820660734538
+    second: forest_sillhouettes_black2_5
+  - first:
+      213: 6568331703294537700
+    second: forest_sillhouettes_black2_6
+  - first:
+      213: 6602750030147232224
+    second: forest_sillhouettes_black2_7
+  - first:
+      213: 7039256548722175588
+    second: forest_sillhouettes_black2_8
+  - first:
+      213: 8846505413326423043
+    second: forest_sillhouettes_black2_9
+  - first:
+      213: -6043614340899639803
+    second: forest_sillhouettes_black2_10
+  - first:
+      213: -2853852191894250394
+    second: forest_sillhouettes_black2_11
+  - first:
+      213: 9220486213443986030
+    second: forest_sillhouettes_black2_12
+  - first:
+      213: -2988746810642411156
+    second: forest_sillhouettes_black2_13
+  - first:
+      213: -2320565900793947652
+    second: forest_sillhouettes_black2_14
+  - first:
+      213: 7001100197431278029
+    second: forest_sillhouettes_black2_15
+  - first:
+      213: -4290933265323897699
+    second: forest_sillhouettes_black2_16
+  - first:
+      213: -5653564651533311693
+    second: forest_sillhouettes_black2_17
+  - first:
+      213: 1703501130978504171
+    second: forest_sillhouettes_black2_18
+  - first:
+      213: 2300185532419359553
+    second: forest_sillhouettes_black2_19
+  - first:
+      213: 9068384025376033678
+    second: forest_sillhouettes_black2_20
+  - first:
+      213: -3411957786577069344
+    second: forest_sillhouettes_black2_21
+  - first:
+      213: 4441281535654648313
+    second: forest_sillhouettes_black2_22
+  - first:
+      213: -5549825586281588007
+    second: forest_sillhouettes_black2_23
+  - first:
+      213: -5148781463149836895
+    second: forest_sillhouettes_black2_24
+  - first:
+      213: -3908248276243701025
+    second: forest_sillhouettes_black2_25
+  - first:
+      213: 9120557773553697367
+    second: forest_sillhouettes_black2_26
+  - first:
+      213: -3333080488267832413
+    second: forest_sillhouettes_black2_27
+  - first:
+      213: -2996702900634133121
+    second: forest_sillhouettes_black2_28
+  - first:
+      213: -9057910290992730440
+    second: forest_sillhouettes_black2_29
+  - first:
+      213: 5739063132422470477
+    second: forest_sillhouettes_black2_30
+  - first:
+      213: -4351768468627023092
+    second: forest_sillhouettes_black2_31
+  - first:
+      213: -1751882064288368440
+    second: forest_sillhouettes_black2_32
+  - first:
+      213: -5156039323979108644
+    second: forest_sillhouettes_black2_33
+  - first:
+      213: 7911951115404113664
+    second: forest_sillhouettes_black2_34
+  - first:
+      213: -3990867741654149655
+    second: forest_sillhouettes_black2_35
+  - first:
+      213: -3221337324347405630
+    second: forest_sillhouettes_black2_36
+  - first:
+      213: -4547291613923933642
+    second: forest_sillhouettes_black2_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2006
+        width: 636
+        height: 2014
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93423b9889b4da0b0800000000000000
+      internalID: -5715829233545960391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_2
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2018
+        width: 704
+        height: 1952
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b3c37e0b40f860800000000000000
+      internalID: 7561626299798894222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_3
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2092
+        width: 672
+        height: 1930
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f8011b97a8deb0800000000000000
+      internalID: -4694818327086173706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_4
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 3378
+        width: 1060
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb68dfae9e34e370800000000000000
+      internalID: 8350868460327693250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_5
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 2156
+        width: 294
+        height: 1050
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b533b28606d9a1e0800000000000000
+      internalID: -2185980820660734538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_6
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 2680
+        width: 668
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efaec532e6672b50800000000000000
+      internalID: 6568331703294537700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_9
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 1636
+        width: 1198
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30444e87dc915ca70800000000000000
+      internalID: 8846505413326423043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_15
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 734
+        width: 1100
+        height: 1176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9fec04987e82160800000000000000
+      internalID: 7001100197431278029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 788
+        width: 1258
+        height: 1076
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4675fdea8374c0800000000000000
+      internalID: -4290933265323897699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1230
+        width: 566
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14349590e86ebef10800000000000000
+      internalID: 2300185532419359553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_20
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1170
+        width: 716
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8d57893f59dd70800000000000000
+      internalID: 9068384025376033678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_31
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 12
+        width: 464
+        height: 1098
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9dba62a96b93c0800000000000000
+      internalID: -4351768468627023092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_33
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 48
+        width: 452
+        height: 990
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea74e7d811278b0800000000000000
+      internalID: -5156039323979108644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forest_sillhouettes_black2_35
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 52
+        width: 350
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59329fee69d98c0800000000000000
+      internalID: -3990867741654149655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
