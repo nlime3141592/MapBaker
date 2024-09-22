@@ -1,5 +1,11 @@
+using System;
+
 namespace Unchord
 {
+    /// <summary>
+    /// Color Table을 사용하는 BMP 파일 편집기 클래스입니다.
+    /// </summary>
+    [Obsolete("필요할 때 구현하세요.")]
     public class BmpIndexEditor
     {
         /*
@@ -18,14 +24,14 @@ namespace Unchord
             this.File = _file;
         }
 
-        public void SetPixel(int _index, byte _r, byte _g, byte _b)
+        public void SetColor(int _index, byte _r, byte _g, byte _b)
         {
             this.File.ColorTable[_index].rgbRed = _r;
             this.File.ColorTable[_index].rgbGreen = _g;
             this.File.ColorTable[_index].rgbBlue = _b;
         }
 
-        public RGBQuad GetPixel(int _index)
+        public RGBQuad GetColor(int _index)
         {
             return File.ColorTable[_index];
         }
